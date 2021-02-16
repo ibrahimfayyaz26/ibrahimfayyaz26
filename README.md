@@ -1,4 +1,4 @@
-[![MasterHead](https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg)]
+![MasterHead](https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg)
 
 <h1 align="center">Hi 👋, I'm Ibrahim fayyaz</h1>
 <h3 align="center">A passionate React Native App developer from Pakistan</h3>
@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +34,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ibrahimfayyaz26&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p>
+ 
+<hr/>
+<br/>
+
+## Certificates ⚡
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg" alt="Certificate" width="350" />
 
 [instagram]: https://instagram.com/dev_m1000/
 [linkedin]: https://linkedin.com/in/ibrahim-fayyaz-20585a206/
