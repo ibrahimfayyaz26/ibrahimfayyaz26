@@ -1,7 +1,7 @@
 <img src="https://wallpaperaccess.com/full/1672336.jpg" alt="Hello world" width="100%" align="center" height="470" />
 
 <h1 align="center">Hi 👋, I'm Ibrahim fayyaz</h1>
-<h3 align="center">A passionate React Native App developer from Pakistan</h3>
+<h3 align="center">A passionate React Native App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimfayyaz26&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimfayyaz26" /> </p>
 
