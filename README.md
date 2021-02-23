@@ -38,7 +38,7 @@
 <hr/>
 <br/>
 
-## Certificates ⚡
+## Certificates  ⭐⚡
 
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg" alt="Certificate" width="350" />
 
