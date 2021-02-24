@@ -41,6 +41,7 @@
 ## Certificates ⚡
 
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg" alt="Certificate" width="350" />
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6106d40c-3975-472d-ab24-309771b3f7e3.jpg" alt="Certificate" width="350" />
 
 [instagram]: https://instagram.com/dev_m1000/
 [linkedin]: https://linkedin.com/in/ibrahim-fayyaz-20585a206/
