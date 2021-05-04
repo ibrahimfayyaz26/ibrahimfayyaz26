@@ -41,8 +41,9 @@
 ## Certificates ⚡
 
 <p align="start">
- <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg" alt="Certificate" width="350" />
-<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6106d40c-3975-472d-ab24-309771b3f7e3.jpg" alt="Certificate" width="350" />
+ <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-1ea097b7-f6bd-47bb-964b-38907d83a138.jpg" alt="Certificate" width="310" />
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6106d40c-3975-472d-ab24-309771b3f7e3.jpg" alt="Certificate" width="310" />
+ <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-a19828b2-24fc-46a5-9b71-2cbfa20a7ab2.jpg" alt="Certificate" width="310" />
 </p>
 
                                                                                                                                      
